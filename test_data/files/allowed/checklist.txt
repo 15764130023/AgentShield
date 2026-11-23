@@ -1,0 +1,2 @@
+AgentShield review checklist.
+Verify permissions, arguments, confirmation, output protection, and audit records.

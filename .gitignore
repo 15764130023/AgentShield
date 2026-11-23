@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.pytest_tmp_*/
+data/evaluation/results/*
+!data/evaluation/results/formal-60-results.json
+*.pyc
+.env
+.env.*

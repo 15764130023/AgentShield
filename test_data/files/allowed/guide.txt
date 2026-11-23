@@ -1,0 +1,2 @@
+AgentShield evaluation guide.
+All tool calls must remain inside the local test environment.
